@@ -1,7 +1,7 @@
 # Product-preview-card
 Projeto feito para um desafio do Frontend Mentor usando HTML5 e CSS3.
 
-[Clique aqui para acessar](https://eu-salazar.github.io/Projeto-Pagina-Entergalactic/#)
+[Clique aqui para acessar](https://eu-salazar.github.io/Product-preview-card/)
 
 ## Notas:
  
